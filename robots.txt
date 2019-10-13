@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieciefaiwi.schoenig.me/sitemap.xml
